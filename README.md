@@ -38,3 +38,34 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+1. IPCC AR6 Report (2023)
+   - Transport emissions
+
+2. India Central Electricity Authority
+   - Grid factor: 0.7-0.82 kg CO2/kWh
+
+3. EPA Greenhouse Gas Equivalencies
+   - Vehicle emissions
+
+4. Our World in Data (Hannah Ritchie)
+   - Food carbon footprint
+   - https://ourworldindata.org/carbon-footprint-food-methane
+
+5. DEFRA UK Conversion Factors
+   - Standard reference for businesses
+
+6. Indian Ministry of Environment
+   - LPG cylinder emissions
+
+## Data Sources
+- IPCC AR6 Climate Report (2023)
+- India Central Electricity Authority
+- EPA Greenhouse Gas Equivalencies
+- DEFRA UK Conversion Factors
+- Our World in Data
+
+## Flight Emissions
+All flight emissions are calculated PER SINGLE TRIP using:
+- Domestic average: 1000 km × 0.255 kg/km = 255 kg
+- International average: 3000 km × 0.195 kg/km = 585 kg
