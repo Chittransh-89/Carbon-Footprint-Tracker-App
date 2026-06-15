@@ -4,8 +4,7 @@
 
 A modern, mobile-first web application that helps individuals measure their environmental impact, track daily carbon habits, and receive AI-generated personalized suggestions to reduce their footprint.
 
-🔗 **Live Demo**: [https://carbonwise-xxxxx.vercel.app](https://carbonwise-xxxxx.vercel.app)  
-📦 **GitHub**: [https://github.com/YOUR_USERNAME/carbonwise](https://github.com/YOUR_USERNAME/carbonwise)
+📦 **GitHub**: [https://github.com/Chittransh-89/carbonwise](https://github.com/Chittransh-89/carbonwise)
 
 ---
 
